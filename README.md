@@ -1,3 +1,5 @@
+# [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1tFYkoKxS3b4fJfNCZuuOsmKviAlD9whQTgOgwxVrX9s/edit?usp=sharing)
+
 # 📊 Курсы ЦБ РФ — Google Apps Script
 
 Скрипт для Google Таблиц, который получает актуальные курсы валют с сайта Центрального банка России и записывает их прямо в таблицу. Запускается одной кнопкой из меню.
